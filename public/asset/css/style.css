@@ -1,0 +1,46 @@
+.room{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 150px;
+}
+.panel-custom{
+	border: 1px solid black;
+	padding: 20px;
+	border-radius: 10px;
+}
+.panel-ivan{
+	margin-left: 50px;
+}
+.center{
+	margin-left: auto;
+	margin-right: auto;
+	 position: relative;
+}
+
+.button-choices{
+	margin-top: 50px;
+	margin-left: 20px; 
+}
+.choices-green{
+	background-color: green;
+	width: 100px;
+	color: white;
+}
+.choices-blue{
+	background-color: blue;
+	width: 100px;
+	color: white;
+}
+.choices-yellow{
+	background-color: yellow;
+	width: 100px;
+	color: white;
+}
+.choices-red{
+	background-color: red;
+	width: 100px;
+	color: white;
+}
+.panel-h{
+	font-size: 30px;
+}
